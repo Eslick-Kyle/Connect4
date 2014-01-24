@@ -7,7 +7,6 @@
 package connect4;
 
 /**
- *
  * @author Kyle
  */
 public class Connect4 {
